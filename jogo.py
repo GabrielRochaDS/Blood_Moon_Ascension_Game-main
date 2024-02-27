@@ -4,7 +4,6 @@ from PPlay.sprite import *
 from PPlay.gameimage import *
 from variaveis import *
 from demon import *
-from main import inic_jogo
 from math import fabs
 from ghost import *
 from fire_skull import *
